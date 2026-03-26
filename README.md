@@ -71,7 +71,4 @@ Algumas das perguntas utilizadas para explorar o conteúdo foram:
 - Quais hábitos ajudam a melhorar o controle financeiro pessoal?
 
 ---
-
-# 📖 Estrutura do repositório
-
-O projeto está organizado da seguinte forma:
+Link do notebooklm: https://notebooklm.google.com/notebook/0a3d10a6-8170-462f-a943-d2e226f278b9
