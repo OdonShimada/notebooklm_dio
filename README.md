@@ -1,19 +1,77 @@
 # notebooklm_dio
-README – Caderno Temático de Estudo
-Assunto escolhido
+# 📘 Caderno Temático de Estudo com IA
 
-O tema escolhido para este caderno temático é Educação Financeira para Iniciantes, com foco especial no entendimento de juros compostos, planejamento financeiro e conceitos básicos de investimento. Esse assunto foi selecionado por ser fundamental para a vida cotidiana, ajudando as pessoas a compreender melhor como administrar seu dinheiro, evitar dívidas e tomar decisões financeiras mais conscientes.
+## 📖 Sobre o projeto
+Este repositório apresenta um caderno temático de estudo desenvolvido com apoio de inteligência artificial utilizando a ferramenta NotebookLM. O objetivo do projeto é explorar conceitos básicos de educação financeira a partir de fontes confiáveis e abertas, organizando o conhecimento em um guia estruturado de estudo.
 
-Para desenvolver este estudo, foram utilizadas fontes abertas e materiais educativos produzidos por instituições confiáveis, como o Banco Central do Brasil e a Comissão de Valores Mobiliários, que oferecem conteúdos voltados para a educação financeira da população.
+A proposta da atividade é demonstrar como a inteligência artificial pode ser utilizada como uma ferramenta de aprendizagem ativa, auxiliando na organização de informações, geração de resumos, criação de perguntas de estudo e construção de materiais de revisão.
 
-🎯 Objetivos de estudo
+---
 
-Os principais objetivos deste caderno temático são:
+# 📊 Tema do estudo
+O tema escolhido para este caderno temático é **Educação Financeira para Iniciantes**, com foco nos seguintes conceitos:
 
-Compreender o conceito de educação financeira e sua importância no cotidiano.
-Entender como funcionam juros simples e juros compostos.
-Identificar a importância do planejamento financeiro pessoal.
-Aprender conceitos básicos relacionados a investimentos e crescimento do dinheiro ao longo do tempo.
-Utilizar a inteligência artificial para organizar informações, gerar resumos e facilitar o processo de aprendizagem.
+- planejamento financeiro
+- controle de gastos
+- investimentos básicos
+- juros simples
+- juros compostos
 
-Este material também busca demonstrar como ferramentas de IA, como o NotebookLM, podem auxiliar no estudo e na organização do conhecimento, permitindo criar resumos estruturados, glossários e perguntas de revisão baseadas em fontes confiáveis. 📚🤖💰
+A educação financeira é essencial para ajudar as pessoas a tomar decisões conscientes sobre dinheiro, evitar endividamento e planejar melhor o futuro financeiro.
+
+---
+
+# 🎯 Objetivos de estudo
+
+Os principais objetivos deste projeto são:
+
+- compreender os conceitos básicos de educação financeira
+- entender a diferença entre juros simples e juros compostos
+- analisar como os juros compostos impactam investimentos ao longo do tempo
+- desenvolver habilidades de organização e análise de informações
+- utilizar inteligência artificial para apoiar o processo de aprendizagem
+
+---
+
+# 📚 Fontes utilizadas
+
+As fontes utilizadas neste estudo são materiais educativos disponibilizados por instituições reconhecidas na área financeira.
+
+- Banco Central do Brasil — Caderno de Educação Financeira  
+- Comissão de Valores Mobiliários — Guia do Investidor  
+- Portal do Investidor — Publicações Educacionais  
+- Materiais introdutórios sobre juros compostos e planejamento financeiro
+
+Os arquivos em PDF utilizados no estudo estão disponíveis na pasta `fontes`.
+
+---
+
+# 🤖 Uso de Inteligência Artificial
+
+Durante o desenvolvimento do caderno temático, foram utilizados prompts para explorar o conteúdo das fontes, gerar explicações simplificadas, criar exemplos e produzir resumos estruturados.
+
+A IA foi utilizada para:
+
+- sintetizar conteúdos das fontes
+- responder perguntas estratégicas
+- gerar explicações simplificadas
+- criar exemplos práticos
+- auxiliar na organização do material de estudo
+
+---
+
+# 🧠 Perguntas estratégicas utilizadas
+
+Algumas das perguntas utilizadas para explorar o conteúdo foram:
+
+- O que é educação financeira?
+- Qual a importância do planejamento financeiro?
+- Qual a diferença entre juros simples e juros compostos?
+- Como os juros compostos afetam um investimento ao longo do tempo?
+- Quais hábitos ajudam a melhorar o controle financeiro pessoal?
+
+---
+
+# 📖 Estrutura do repositório
+
+O projeto está organizado da seguinte forma:
